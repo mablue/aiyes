@@ -1,4 +1,5 @@
-#IMPORTANT TO READ
+# IMPORTANT TO READ
+
 https://developer.android.com/build/migrate-to-catalogs
 
 ## YOLOv9 Live Object Detection Android Application
