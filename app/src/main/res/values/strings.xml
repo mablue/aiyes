@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aiyes</string>
+    <string name="gpu_on">استفاده از پردازنده گرافیکی</string>
+    <string name="yolov9_object_detect">Aiyes ITSFarsi Ai Eyes</string>
+    <string name="speed">Speed:</string>
+    <string name="gpu_off">استفاده از سی پی یو</string>
+</resources>
